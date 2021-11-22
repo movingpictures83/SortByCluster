@@ -1,0 +1,2 @@
+Prefix plugins/SortByCluster/example/
+Plugin SortByCluster inputfile parameters.txt outputfile network.sortbycluster.csv
